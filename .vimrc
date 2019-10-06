@@ -12,6 +12,7 @@ set number             " show line numbers
 
 set textwidth=80        " break lines when line length increases
 
+colorscheme slate       " desert is another good choice that's built-in
 syntax enable           " enable syntax processing
 
 set tabstop=4           " number of visual spaces per TAB
